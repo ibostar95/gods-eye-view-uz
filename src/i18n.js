@@ -58,7 +58,7 @@ export const TRANSLATIONS = Object.freeze({
       'USGS va NASA ma’lumotlari asosidagi zilzilalar va faol yong‘inlar',
     'welcome.explore.title': 'QO‘LDA KO‘RIB CHIQISH',
     'welcome.explore.subtitle': 'Toza globusdan boshlash',
-    'welcome.suppress': 'Boshqa ko‘rsatma',
+    'welcome.suppress': 'Boshqa ko‘rsatilmasin',
     'welcome.dismiss': 'ESC — yopish',
     'welcome.tip':
       '{{product}} MIC tugmasi orqali xaritani ovoz bilan boshqarishingiz mumkin.',
